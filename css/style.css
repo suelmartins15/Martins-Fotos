@@ -74,7 +74,7 @@ header p{
     margin-bottom: 2em;
 }
 
-#sobre{
+section{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -84,16 +84,16 @@ header p{
     color: #ffffff;
 }
 
-#sobre h2{
+section #sobre h2{
     color: #ffffff;
 }
 
-#sobre p{
+section p{
     margin-bottom: 2.5em;
     max-width: 1000px;
 }
 
-#sobre .botao{
+.botao{
     background-color: #f1f1f1f1;
     color: #1c1c1c;
 }
